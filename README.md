@@ -1,1 +1,1 @@
-# pglife.github.io
+# pg-life.github.io
